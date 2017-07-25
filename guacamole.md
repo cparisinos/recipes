@@ -4,4 +4,6 @@ lemon
 lime
 apple
 salt 
+oil
+paper
 #instructions
